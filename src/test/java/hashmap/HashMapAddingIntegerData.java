@@ -19,5 +19,8 @@ public class HashMapAddingIntegerData {
 		System.out.println("Size : "+hashMap.size());
 		
 		System.out.println(hashMap);
+		
+		
+		
 	}
 }
